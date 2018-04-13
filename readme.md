@@ -1,4 +1,4 @@
-# Lumen PHP Framework
+# CryptoMomo
 
 [![Build Status](https://travis-ci.org/laravel/lumen-framework.svg)](https://travis-ci.org/laravel/lumen-framework)
 [![Total Downloads](https://poser.pugx.org/laravel/lumen-framework/d/total.svg)](https://packagist.org/packages/laravel/lumen-framework)
@@ -6,7 +6,7 @@
 [![Latest Unstable Version](https://poser.pugx.org/laravel/lumen-framework/v/unstable.svg)](https://packagist.org/packages/laravel/lumen-framework)
 [![License](https://poser.pugx.org/laravel/lumen-framework/license.svg)](https://packagist.org/packages/laravel/lumen-framework)
 
-Laravel Lumen is a stunningly fast PHP micro-framework for building web applications with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Lumen attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as routing, database abstraction, queueing, and caching.
+Buy and Sell Blockchain tokens. The safest and fastest way to buy and sell Bitcoin, Ethereum, Litecoin & BitcoinCash.Choose token, input your receiving address or mobile money number, & send your funds.  Minimal fees, and a simple process. You don’t need an account to use CryptoMomo. This means your funds and information don’t suffer custodial risk.
 
 ## Official Documentation
 
